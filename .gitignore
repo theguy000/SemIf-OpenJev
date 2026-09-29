@@ -9,3 +9,5 @@ results*.jsonl
 reranker-results*.jsonl
 models/
 cache/
+*.gguf
+webgpu-demo/assets/
